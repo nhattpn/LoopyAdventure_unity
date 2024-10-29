@@ -48,7 +48,7 @@ GameObject:
   - component: {fileID: 339728066529960373}
   - component: {fileID: 6126100315396194484}
   m_Layer: 10
-  m_Name: Loopy
+  m_Name: Player
   m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
