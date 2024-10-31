@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737545204462781055}
   - component: {fileID: 5953546705638738479}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (13)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -70,9 +70,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2356710567977504954}
   - component: {fileID: 2518961202146874084}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (7)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -154,9 +154,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -178,7 +178,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4358994311048775429}
   - component: {fileID: 6819770790704111612}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (14)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -238,9 +238,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -262,7 +262,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5114205855096837949}
   - component: {fileID: 572374015041936321}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (15)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -322,9 +322,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -346,7 +346,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6792478924288581897}
   - component: {fileID: 2834935861864662702}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (8)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -406,9 +406,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -430,7 +430,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6858939061458654015}
   - component: {fileID: 2509412326139529882}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (19)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -490,9 +490,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -514,7 +514,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3950282136479591456}
   - component: {fileID: 303324358374862105}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (5)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -574,9 +574,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -598,7 +598,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2866780224531164109}
   - component: {fileID: 15999164825942006}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (9)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -658,9 +658,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -682,8 +682,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3588569661093681757}
   - component: {fileID: 7454411414575926948}
-  - component: {fileID: -3904977424815994440}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Dirt_Road
   m_TagString: Ground
   m_Icon: {fileID: 0}
@@ -769,58 +768,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 27, y: 1.53}
   m_EdgeRadius: 0
---- !u!212 &-3904977424815994440
-SpriteRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4014322318444433565}
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_DynamicOccludee: 1
-  m_StaticShadowCaster: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RayTracingMode: 0
-  m_RayTraceProcedural: 0
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_ReceiveGI: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 1
-  m_SelectedEditorRenderState: 0
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
-  m_Sprite: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 0
-  m_FlipY: 0
-  m_DrawMode: 0
-  m_Size: {x: 1, y: 1}
-  m_AdaptiveModeThreshold: 0.5
-  m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
-  m_MaskInteraction: 0
-  m_SpriteSortPoint: 0
 --- !u!1 &4018155140253824419
 GameObject:
   m_ObjectHideFlags: 0
@@ -831,7 +778,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2313932609955180465}
   - component: {fileID: 6857300040592437349}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (3)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -891,9 +838,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -915,7 +862,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4623219709130698400}
   - component: {fileID: 3760681624910129371}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (10)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -975,9 +922,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -999,7 +946,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6729585920806554236}
   - component: {fileID: 1145653080909414960}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (17)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1059,9 +1006,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1083,7 +1030,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1979595808464558453}
   - component: {fileID: 4470657642025545802}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (6)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1143,9 +1090,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1167,7 +1114,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2712540504582391345}
   - component: {fileID: 3333234514903467323}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (18)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1227,9 +1174,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1251,7 +1198,7 @@ GameObject:
   m_Component:
   - component: {fileID: 6228928677535116804}
   - component: {fileID: 6640591255385417676}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (11)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1311,9 +1258,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1335,7 +1282,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8666213424937200875}
   - component: {fileID: 1354637488545155149}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (16)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1395,9 +1342,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1419,7 +1366,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8446459091242680039}
   - component: {fileID: 2227030772923864401}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (12)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1479,9 +1426,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1504,7 +1451,7 @@ GameObject:
   - component: {fileID: 352203933030061309}
   - component: {fileID: 6304450764691843614}
   - component: {fileID: 8333030990510017148}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (4)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1564,9 +1511,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1633,7 +1580,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1947713585610259857}
   - component: {fileID: 5541136093341444803}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1693,9 +1640,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -1717,7 +1664,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3669772262067130874}
   - component: {fileID: 185684302620289885}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: Grass_Oneway (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1777,9 +1724,9 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingLayerID: -1645818593
+  m_SortingLayer: 4
+  m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: 0e7add8ce5dbd544a8287aab9da82053, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
