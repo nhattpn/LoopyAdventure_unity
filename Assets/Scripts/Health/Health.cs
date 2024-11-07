@@ -72,10 +72,8 @@ public class Health : MonoBehaviour
     private IEnumerator Invunerability()
     {
         if (childSprites.Length == 0) yield break;
-
         invulnerable = true;
         Physics2D.IgnoreLayerCollision(10, 11, true);
-
         for (int i = 0; i < numberOfFlashes; i++)
         {
             // Áp dụng hiệu ứng flash cho tất cả sprite renderer
@@ -93,7 +91,6 @@ public class Health : MonoBehaviour
             }
             yield return new WaitForSeconds(iFramesDuration / (numberOfFlashes * 2));
         }
-
         Physics2D.IgnoreLayerCollision(10, 11, false);
         invulnerable = false;
     }
@@ -102,7 +99,6 @@ public class Health : MonoBehaviour
     {
         gameObject.SetActive(false);
     }
-
     public void Respawn()
     {
         AddHealth(startingHealth);
@@ -110,7 +106,6 @@ public class Health : MonoBehaviour
         anim.Play("Idle");
         StartCoroutine(Invunerability());
         dead = false;
-
         foreach (Behaviour component in components)
             component.enabled = true;
     }
