@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: c4c9449df67ff3648b120be2b6343aed
+guid: 503abb74903924f42b552aecc561719b
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -39,7 +39,7 @@ TextureImporter:
     mipBias: 0
     wrapU: 1
     wrapV: 1
-    wrapW: 0
+    wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
@@ -93,102 +93,131 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 3
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: idle_pororo_0
+      name: grayrose_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 40
-        width: 49
-        height: 48
-      alignment: 9
-      pivot: {x: 0.5595774, y: 0.025146166}
+        x: 1
+        y: 37
+        width: 51
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 02220746326c77f4d86fffba471d9a2e
-      internalID: 1222299862
+      spriteID: b7a3907063979484db6739eede7d25a9
+      internalID: -1118863675
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_pororo_1
+      name: grayrose_1
       rect:
         serializedVersion: 2
-        x: 67
-        y: 44
-        width: 26
-        height: 28
-      alignment: 9
-      pivot: {x: 0.6079621, y: 0.38370922}
+        x: 59
+        y: 54
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 78704a26426dbd242b01385783706e61
-      internalID: 742987253
+      spriteID: 94208f0b5c81ec1488f4140aa18b427c
+      internalID: 1801931074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_pororo_2
+      name: grayrose_2
       rect:
         serializedVersion: 2
-        x: 8
-        y: 19
-        width: 21
-        height: 12
-      alignment: 9
-      pivot: {x: 0.04018352, y: 0.82748556}
+        x: 54
+        y: 36
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf14272e9a1682f4c893c090dfff7c68
-      internalID: -838478313
+      spriteID: 59cf9b6822bde294081bfe467435ded3
+      internalID: -573404308
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: idle_pororo_3
+      name: grayrose_3
       rect:
         serializedVersion: 2
-        x: 65
-        y: 23
-        width: 12
-        height: 6
-      alignment: 9
-      pivot: {x: 0.31286559, y: 1.0801185}
+        x: 76
+        y: 36
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8b151ade561b41f4b8bf780382464999
-      internalID: -2007245374
+      spriteID: 7e2b62fb668fd7546bddf73f4629038d
+      internalID: 649997479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayrose_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816546a44c4a18740a7f3e45e7177608
+      internalID: -1343728638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grayrose_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 12
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101b5881e30e367448b96237ffedf72b
+      internalID: 1316569992
       vertices: []
       indices: 
       edges: []
@@ -196,7 +225,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8b1eeca27ee3337459acedfd9319d8ef
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -204,10 +233,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      idle_pororo_0: 1222299862
-      idle_pororo_1: 742987253
-      idle_pororo_2: -838478313
-      idle_pororo_3: -2007245374
+      grayrose_0: -1118863675
+      grayrose_1: 1801931074
+      grayrose_2: -573404308
+      grayrose_3: 649997479
+      grayrose_4: -1343728638
+      grayrose_5: 1316569992
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
