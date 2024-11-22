@@ -36,13 +36,16 @@ public class Projectile : MonoBehaviour
     }
     public void SetDirection(float _direction)
     {
+        
         lifetime = 0;
         direction = _direction;
         gameObject.SetActive(true);
         hit = false;
         boxCollider.enabled = true;
 
+        Debug.Log("Direction: " + _direction);
         float localScaleX = transform.localScale.x;
+        
         if (Mathf.Sign(localScaleX) != _direction)
             localScaleX = -localScaleX;
 
