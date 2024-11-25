@@ -20,20 +20,25 @@ public class Projectile : MonoBehaviour
         if (hit) return;
         float movementSpeed = speed * Time.deltaTime * direction;
         transform.Translate(movementSpeed, 0, 0);
-
         lifetime += Time.deltaTime;
-        if (lifetime > 5) gameObject.SetActive(false);
+        if (lifetime > 4) gameObject.SetActive(false);
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        hit = true;
-        boxCollider.enabled = false;
-        anim.SetTrigger("explode");
-
-        if (collision.tag == "Enemy")
+        if (collision.tag == "Enemy"){
+            hit = true;
+            boxCollider.enabled = false;
+            anim.SetTrigger("explode");
             collision.GetComponent<Health>()?.TakeDamage(1);
+        }
     }
+
+    public bool checkAlive()
+    {
+        return lifetime < 5;
+    }
+
     public void SetDirection(float _direction)
     {
         
@@ -43,12 +48,8 @@ public class Projectile : MonoBehaviour
         hit = false;
         boxCollider.enabled = true;
 
-        Debug.Log("Direction: " + _direction);
         float localScaleX = transform.localScale.x;
-        
-        if (Mathf.Sign(localScaleX) != _direction)
-            localScaleX = -localScaleX;
-
+        localScaleX *= Mathf.Sign(_direction);
         transform.localScale = new Vector3(localScaleX, transform.localScale.y, transform.localScale.z);
     }
     private void Deactivate()
