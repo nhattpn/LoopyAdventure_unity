@@ -25,6 +25,6 @@ public class LoadingManager : MonoBehaviour
     }
     public void Restart()
     {
-        //SceneManager.LoadScene(currentLevel);
+        SceneManager.LoadScene(currentLevel);
     }
 }
