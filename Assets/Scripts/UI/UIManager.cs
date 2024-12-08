@@ -5,7 +5,10 @@ public class UIManager : MonoBehaviour
 {
     [Header ("Game Over")]
     [SerializeField] private GameObject gameOverScreen;
+    [SerializeField] private GameObject gameWinScreen;
     [SerializeField] private AudioClip gameOverSound;
+    [SerializeField] private AudioClip gameWinSound;
+
 
     [Header("Pause")]
     [SerializeField] private GameObject pauseScreen;
@@ -13,6 +16,7 @@ public class UIManager : MonoBehaviour
     private void Awake()
     {
         gameOverScreen.SetActive(false);
+        gameWinScreen.SetActive(false);
         pauseScreen.SetActive(false);
     }
     private void Update()
@@ -20,6 +24,7 @@ public class UIManager : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Escape))
         {
             //If pause screen already active unpause and viceversa
+            bool isPaused = pauseScreen.activeInHierarchy;
             PauseGame(!pauseScreen.activeInHierarchy);
         }
     }
@@ -32,15 +37,23 @@ public class UIManager : MonoBehaviour
         SoundManager.instance.PlaySound(gameOverSound);
     }
 
+    public void GameWin()
+    {
+        gameWinScreen.SetActive(true);
+        SoundManager.instance.PlaySound(gameWinSound);
+    }
+
     //Restart level
     public void Restart()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
 
     //Main Menu
     public void MainMenu()
     {
+        Time.timeScale = 1;
         SceneManager.LoadScene(0);
     }
 
@@ -56,6 +69,13 @@ public class UIManager : MonoBehaviour
     #endregion
 
     #region Pause
+        /// <summary>
+        /// Pause the game by setting the Time.timeScale to 0, or unpause by setting it to 1.
+        /// Also toggle the pauseScreen's active state.
+        /// </summary>
+        /// <param name="status">True to pause, false to unpause</param>
+/*************  ✨ Codeium Command ⭐  *************/
+/******  412a5ea1-ae66-449b-91b4-c572bd16910d  *******/
     public void PauseGame(bool status)
     {
         //If status == true pause | if status == false unpause

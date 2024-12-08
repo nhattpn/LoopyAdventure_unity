@@ -36,5 +36,7 @@ public class PlayerRespawn : MonoBehaviour
             collision.GetComponent<Collider2D>().enabled = false;
             collision.GetComponent<Animator>().SetTrigger("activate");
         }
+        if (collision.gameObject.tag == "Finish")
+            uiManager.GameWin();
     }
 }
